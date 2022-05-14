@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/VijoPlays/MailScript/actions/workflows/codeql.yml/badge.svg)](https://github.com/VijoPlays/MailScript/actions/workflows/codeql.yml) [![Python application](https://github.com/VijoPlays/MailScript/actions/workflows/python-app.yml/badge.svg)](https://github.com/VijoPlays/MailScript/actions/workflows/python-app.yml)
+
 In order to protect democracy, I wrote this script. Not sure that the politicians will care, but regardless, I wanted to send them a message. They wanted to abolish the encryption of chat messages for the like 5th time in 3 years, so now I need to automate my mail sending.
 
 # How to use
